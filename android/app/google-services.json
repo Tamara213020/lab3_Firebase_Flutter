@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966633353424",
+    "project_id": "joke-app-7d5cd",
+    "storage_bucket": "joke-app-7d5cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966633353424:android:e814238a8e0d4a6718eed5",
+        "android_client_info": {
+          "package_name": "com.example.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrZaMOs6xz8n4oT1MVQcqGq-9nIHPwgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
